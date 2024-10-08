@@ -10,6 +10,7 @@
 
     LabelTextField_1 As LabelTextField:
         Height: =74
+        InputLabel: ="First Text"
         X: =390
         Y: =151
         ZIndex: =3
@@ -50,4 +51,10 @@
         X: =543
         Y: =402
         ZIndex: =9
+
+    Button_2 As Button:
+        ZIndex: =10
+
+    Button_3 As Button:
+        ZIndex: =11
 

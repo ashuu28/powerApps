@@ -51,7 +51,7 @@
   },
   {
     "HasLibraryLogicalName": true,
-    "InstanceCount": 1,
+    "InstanceCount": 3,
     "LibraryId": "001fc030-04ef-4ac1-ae18-235c0909e6b9",
     "LibraryLogicalName": "crc3e_atoms_25486",
     "LibraryVersion": "2024-10-03T17:13:01Z",
