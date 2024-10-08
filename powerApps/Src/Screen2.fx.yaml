@@ -1,0 +1,14 @@
+Screen2 As screen:
+
+    Component1_3 As Component1:
+        FooterIcon1: =Icon.Settings
+        FooterItemLabel1: ="Setting"
+        Height: =768
+        Width: =1366
+
+    Radio1 As radio:
+        Items: =["diksha","Ashu"]
+        X: =618
+        Y: =261
+        ZIndex: =2
+

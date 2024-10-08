@@ -1,0 +1,53 @@
+"'Registration Form' As screen":
+
+    Navbar_1 As Navbar:
+        NavItemsColor: =RGBA(255, 255, 255, 1)
+        Width: =Parent.Width
+
+    Footer_1 As Footer:
+        Width: =Parent.Width
+        Y: =618
+
+    LabelTextField_1 As LabelTextField:
+        Height: =74
+        X: =390
+        Y: =151
+        ZIndex: =3
+
+    LabelTextField_2 As LabelTextField:
+        Height: =74
+        X: =736
+        Y: =151
+        ZIndex: =4
+
+    LabelTextField_3 As LabelTextField:
+        Height: =74
+        X: =390
+        Y: =225
+        ZIndex: =5
+
+    LabelTextField_4 As LabelTextField:
+        Height: =74
+        X: =736
+        Y: =225
+        ZIndex: =6
+
+    LabelTextField_5 As LabelTextField:
+        Height: =74
+        X: =390
+        Y: =306
+        ZIndex: =7
+
+    LabelTextField_6 As LabelTextField:
+        Height: =74
+        X: =736
+        Y: =306
+        ZIndex: =8
+
+    Button_1 As Button:
+        ButtonText: ="Submit"
+        OnSelectNavigate: ='Home Page'
+        X: =543
+        Y: =402
+        ZIndex: =9
+

@@ -1,0 +1,72 @@
+[
+  {
+    "HasLibraryLogicalName": true,
+    "InstanceCount": 2,
+    "LibraryId": "f68b4c34-b5f5-4f5f-a3a5-b40b0aef1a2f",
+    "LibraryLogicalName": "crc3e_organisms_52255",
+    "LibraryVersion": "2024-10-07T12:50:01Z",
+    "OriginalComponentDefinitionTemplateId": "b9f47f510d354616a3a9cc557fed7c3c",
+    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
+    "SourceLastTimeSaved": "2024-10-07T12:50:04.783+00:00"
+  },
+  {
+    "HasLibraryLogicalName": true,
+    "InstanceCount": 2,
+    "LibraryId": "f68b4c34-b5f5-4f5f-a3a5-b40b0aef1a2f",
+    "LibraryLogicalName": "crc3e_organisms_52255",
+    "LibraryVersion": "2024-10-07T12:50:01Z",
+    "OriginalComponentDefinitionTemplateId": "c30684802e2c4362a2b8a6d934aea06d",
+    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
+    "SourceLastTimeSaved": "2024-10-07T12:50:04.783+00:00"
+  },
+  {
+    "HasLibraryLogicalName": true,
+    "InstanceCount": 2,
+    "LibraryId": "f68b4c34-b5f5-4f5f-a3a5-b40b0aef1a2f",
+    "LibraryLogicalName": "crc3e_organisms_52255",
+    "LibraryVersion": "2024-10-07T12:50:01Z",
+    "OriginalComponentDefinitionTemplateId": "c4edc1c9e91a48f4b46320044768fe04",
+    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
+    "SourceLastTimeSaved": "2024-10-07T12:50:04.783+00:00"
+  },
+  {
+    "HasLibraryLogicalName": true,
+    "InstanceCount": 0,
+    "LibraryId": "001fc030-04ef-4ac1-ae18-235c0909e6b9",
+    "LibraryLogicalName": "crc3e_atoms_25486",
+    "LibraryVersion": "2024-10-03T17:13:01Z",
+    "OriginalComponentDefinitionTemplateId": "6d901adee8244faa94dd2cd1c2cac217",
+    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
+    "SourceLastTimeSaved": "2024-10-03T17:13:05.39+00:00"
+  },
+  {
+    "HasLibraryLogicalName": true,
+    "InstanceCount": 6,
+    "LibraryId": "3a2b017b-a5ad-4ab8-a81c-01f5e80dc5c3",
+    "LibraryLogicalName": "crc3e_molecules_616e1",
+    "LibraryVersion": "2024-09-29T12:46:05Z",
+    "OriginalComponentDefinitionTemplateId": "54c507126462481cbb9ec71df42f37b1",
+    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
+    "SourceLastTimeSaved": "2024-09-29T12:46:08.295+00:00"
+  },
+  {
+    "HasLibraryLogicalName": true,
+    "InstanceCount": 1,
+    "LibraryId": "001fc030-04ef-4ac1-ae18-235c0909e6b9",
+    "LibraryLogicalName": "crc3e_atoms_25486",
+    "LibraryVersion": "2024-10-03T17:13:01Z",
+    "OriginalComponentDefinitionTemplateId": "2431918b54c14f57baf944e3fe519621",
+    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
+    "SourceLastTimeSaved": "2024-10-03T17:13:05.39+00:00"
+  },
+  {
+    "HasLibraryLogicalName": true,
+    "InstanceCount": 3,
+    "LibraryId": "927a5d7c-67ed-4b13-8465-b15a0b61c9ea",
+    "LibraryLogicalName": "crc3e_layouts_163db",
+    "LibraryVersion": "2024-10-07T04:14:29Z",
+    "OriginalComponentDefinitionTemplateId": "7fa453810d954fd8a376f8ad5f16e758",
+    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
+    "SourceLastTimeSaved": "2024-10-07T04:14:32.294+00:00"
+  }
+]

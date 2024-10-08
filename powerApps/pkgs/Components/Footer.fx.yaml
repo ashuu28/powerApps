@@ -1,0 +1,109 @@
+Footer As CanvasComponent:
+    Fill: =RGBA(0, 0, 0, 0)
+    FooterIcon1: =Icon.Printing3D
+    FooterIcon2: =Icon.Bookmark
+    FooterIcon3: =Icon.CalendarBlank
+    FooterIcon4: =Icon.Globe
+    FooterItemLabel1: ="Text"
+    FooterItemLabel2: ="Text"
+    FooterItemLabel3: ="Text"
+    FooterItemLabel4: ="Text"
+    Height: =150
+    NavigationFooterItem1: =App.ActiveScreen
+    NavigationFooterItem2: =App.ActiveScreen
+    NavigationFooterItem3: =App.ActiveScreen
+    NavigationFooterItem4: =App.ActiveScreen
+    Width: =640
+    X: =0
+    Y: =0
+    ZIndex: =2
+
+    Label2 As label:
+        Align: =Align.Center
+        Fill: =RGBA(0, 0, 0, 1)
+        Height: =Parent.Height
+        Size: =21
+        Text: =
+        Width: =Parent.Width
+        ZIndex: =1
+
+    "Icon6 As icon.'3DPrinting'":
+        Color: =RGBA(255, 255, 255, 1)
+        Height: =40
+        Icon: =Parent.FooterIcon1
+        OnSelect: =Navigate(Parent.NavigationFooterItem1)
+        Width: =40
+        X: =(Parent.Width - Icon6.Width)/3.6
+        Y: =(Parent.Height - Icon6.Height)/3
+        ZIndex: =2
+
+    Icon7 As icon.Bookmark:
+        Color: =RGBA(255, 255, 255, 1)
+        Height: =40
+        Icon: =Parent.FooterIcon2
+        OnSelect: =Navigate(Parent.NavigationFooterItem2)
+        Width: =40
+        X: =(Parent.Width - Icon7.Width)/2.4
+        Y: =(Parent.Height - Icon7.Height)/3
+        ZIndex: =3
+
+    Icon8 As icon.CalendarBlank:
+        Color: =RGBA(255, 255, 255, 1)
+        Height: =40
+        Icon: =Parent.FooterIcon3
+        OnSelect: =Navigate(Parent.NavigationFooterItem3)
+        Width: =40
+        X: =(Parent.Width - Icon8.Width)/1.8
+        Y: =(Parent.Height - Icon8.Height)/3
+        ZIndex: =4
+
+    Icon9 As icon.Globe:
+        Color: =RGBA(255, 255, 255, 1)
+        Height: =40
+        Icon: =Parent.FooterIcon4
+        OnSelect: =Navigate(Parent.NavigationFooterItem4)
+        Width: =40
+        X: =(Parent.Width - Icon9.Width)/1.45
+        Y: =(Parent.Height - Icon9.Height)/3
+        ZIndex: =5
+
+    Label3 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        Height: =45
+        Size: =10
+        Text: =Parent.FooterItemLabel1
+        Width: =73
+        X: =(Parent.Width - Icon6.Width)/3.6
+        Y: =(Parent.Height - Label3.Height)/1.2
+        ZIndex: =6
+
+    Label3_1 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        Height: =45
+        Size: =10
+        Text: =Parent.FooterItemLabel2
+        Width: =73
+        X: =(Parent.Width - Icon7.Width)/2.4
+        Y: =(Parent.Height - Label3_1.Height)/1.2
+        ZIndex: =7
+
+    Label3_2 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        Height: =45
+        Size: =10
+        Text: =Parent.FooterItemLabel3
+        Width: =73
+        X: =(Parent.Width - Icon8.Width)/1.8
+        Y: =(Parent.Height - Label3_2.Height)/1.2
+        ZIndex: =8
+
+    Label3_3 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        Height: =45
+        Size: =10
+        Text: =Parent.FooterItemLabel4
+        Width: =73
+        X: =(Parent.Width - Icon9.Width)/1.45
+        Y: =(Parent.Height - Label3_3.Height)/1.2
+        ZIndex: =9
+
