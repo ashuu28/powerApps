@@ -1,0 +1,46 @@
+Navbar As CanvasComponent:
+    Fill: =RGBA(0, 0, 0, 0)
+    Height: =60
+    HomeIconNavigation: =App.ActiveScreen
+    NavbarText: ="Adidas ///"
+    NavBgColor: =RGBA(0, 0, 0, 1)
+    NavItemsColor: =RGBA(225, 225, 225, 1)
+    Width: =640
+    X: =0
+    Y: =0
+    ZIndex: =1
+
+    Label1 As label:
+        Align: =Align.Center
+        Color: =Parent.NavItemsColor
+        Fill: =Parent.NavBgColor
+        Height: =Parent.Height
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        Size: =21
+        Text: =Parent.NavbarText
+        Width: =Parent.Width
+        ZIndex: =1
+
+    Icon1 As icon.Person:
+        Color: =Parent.NavItemsColor
+        Height: =40
+        Icon: =Icon.Person
+        PaddingRight: =10
+        Width: =40
+        X: =Parent.Width-Self.Width
+        Y: =11
+        ZIndex: =2
+
+    Icon2 As icon.Home:
+        Color: =Parent.NavItemsColor
+        Height: =40
+        Icon: =Icon.Home
+        OnSelect: =Navigate(Parent.HomeIconNavigation)
+        PaddingLeft: =10
+        Width: =40
+        Y: =11
+        ZIndex: =3
+

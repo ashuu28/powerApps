@@ -1,0 +1,78 @@
+Screen1 As screen:
+    OnVisible: |+
+        =ClearCollect(
+            ImageCollection,
+            {ID:1, ImageURL: "https://live.staticflickr.com/65535/48168751267_1f7b2692b8_b.jpg"},
+            {ID:2, ImageURL: "https://live.staticflickr.com/65535/48168751267_1f7b2692b8_b.jpg"},
+            {ID:3, ImageURL: "https://live.staticflickr.com/65535/48168751267_1f7b2692b8_b.jpg"}
+        )
+        
+
+    Component1_1 As Component1:
+        FooterIcon1: =Icon.DocumentPDF
+        FooterIcon2: =Icon.AddToCalendar
+        FooterIcon3: =Icon.Error
+        FooterIcon4: =Icon.Cars
+        Height: =768
+        NavigationSIdebarIcon1: =Screen3
+        SidebarFirstItemLabel: ="Home"
+        SidebarfourthItemLabel: ="Settings"
+        SidebarSecondItemLabel: ="User"
+        SidebarThirdItemLabel: ="Docs"
+        Username: ="Diksha"
+        Width: =1366
+
+    "Gallery1 As gallery.'BrowseLayout_Horizontal_TwoTextOneImageOverlayVariant_ver5.0'":
+        DelayItemLoading: =true
+        Height: =431
+        Items: =ImageCollection
+        LoadingSpinner: =LoadingSpinner.Data
+        TemplatePadding: =0
+        TemplateSize: =Min(440, Self.Height - 60)
+        Width: =382
+        X: =516
+        Y: =120
+        ZIndex: =1
+
+        Image6 As image:
+            Height: =Parent.TemplateHeight - 32
+            Image: =ThisItem.ImageURL
+            ImagePosition: =ImagePosition.Fill
+            OnSelect: =Select(Parent)
+            RadiusBottomLeft: =8
+            RadiusBottomRight: =8
+            RadiusTopLeft: =8
+            RadiusTopRight: =8
+            Width: =Parent.TemplateWidth - 32
+            X: =16
+            Y: =16
+            ZIndex: =1
+
+        Title6 As label:
+            Height: =Self.Size * 1.8
+            OnSelect: =Select(Parent)
+            PaddingBottom: =0
+            PaddingLeft: =0
+            PaddingRight: =0
+            PaddingTop: =0
+            Text: =ThisItem.ImageURL
+            VerticalAlign: =VerticalAlign.Top
+            Width: =0
+            X: =
+            Y: =
+            ZIndex: =3
+
+        Subtitle6 As label:
+            Height: =Self.Size * 1.8
+            OnSelect: =Select(Parent)
+            PaddingBottom: =0
+            PaddingLeft: =0
+            PaddingRight: =0
+            PaddingTop: =0
+            Text: =ThisItem.ImageURL
+            VerticalAlign: =VerticalAlign.Top
+            Width: =Title6.Width
+            X: =Title6.X
+            Y: =Title6.Y + Title6.Height + 8
+            ZIndex: =4
+

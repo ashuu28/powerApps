@@ -1,0 +1,22 @@
+Button As CanvasComponent:
+    ButtonFillColor: =RGBA(0, 0, 0, 1)
+    ButtonText: ="Text"
+    ButtonTextColor: =RGBA(255, 255, 255, 1)
+    Fill: =RGBA(0, 0, 0, 0)
+    Height: =70
+    OnSelectNavigate: =App.ActiveScreen
+    Width: =280
+    X: =0
+    Y: =0
+    ZIndex: =1
+
+    Button1 As button:
+        Color: =Parent.ButtonTextColor
+        Fill: =RGBA(26, 26, 26, 1)
+        Height: =70
+        OnSelect: =Navigate(Parent.OnSelectNavigate)
+        Size: =24
+        Text: =Parent.ButtonText
+        Width: =280
+        ZIndex: =1
+

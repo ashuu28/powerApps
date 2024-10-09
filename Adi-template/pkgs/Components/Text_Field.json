@@ -1,0 +1,29 @@
+{
+  "ComponentAllowCustomization": true,
+  "ComponentChangedSinceFileImport": true,
+  "ComponentManifest": {
+    "AllowAccessToGlobals": false,
+    "AllowCustomization": true,
+    "Description": "",
+    "Name": "Text_Field",
+    "TemplateGuid": "97c9e1f3aa104ae09830dbdcac79cc0d"
+  },
+  "ComponentType": "CanvasComponent",
+  "CustomGroupControlTemplateName": "",
+  "CustomProperties": [],
+  "FirstParty": true,
+  "Id": "http://microsoft.com/appmagic/Component",
+  "IsComponentLocked": true,
+  "IsComponentTemplate": true,
+  "IsCustomGroupControlTemplate": false,
+  "IsPcfControl": false,
+  "IsPremiumPcfControl": false,
+  "IsWidgetTemplate": false,
+  "LastModifiedTimestamp": "638640500012721344",
+  "Name": "97c9e1f3aa104ae09830dbdcac79cc0d",
+  "OverridableProperties": {},
+  "SourceLibraryId": "001fc030-04ef-4ac1-ae18-235c0909e6b9",
+  "SourceLibraryLogicalName": "crc3e_atoms_25486",
+  "TemplateOriginalName": "6d901adee8244faa94dd2cd1c2cac217",
+  "Version": "1.0"
+}

@@ -1,0 +1,22 @@
+"'Home Page' As screen":
+
+    sidebar_1 As sidebar:
+        FirstItemLabel: ="Home"
+        FourthIconLabel: ="Settings"
+        Height: =Parent.Height
+        SecondIconLabel: ="User"
+        SecondItemIcon: =Icon.AddUser
+        SidebarBgColor: =RGBA(232, 232, 232, 1)
+        ThirdIconLabel: ="Bug"
+        ThirdtemIcon: =Icon.Bug
+
+    Label9 As label:
+        Align: =Align.Center
+        Height: =96
+        Size: =21
+        Text: ="Form Submitted Successfully"
+        Width: =400
+        X: =483
+        Y: =282
+        ZIndex: =2
+
