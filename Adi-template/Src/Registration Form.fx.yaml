@@ -8,15 +8,6 @@
         Width: =Parent.Width
         Y: =618
 
-    Button_1 As Button:
-        BtnText: ="Submit"
-        X: =543
-        Y: =457
-        ZIndex: =9
-
-    "'Label Text Input_1' As 'Label Text Input'":
-        ZIndex: =10
-
     "'Label Text Input_2' As 'Label Text Input'":
         Height: =90
         X: =264
@@ -52,4 +43,10 @@
         X: =791
         Y: =327
         ZIndex: =16
+
+    Button_1 As Button:
+        BtnText: ="Submit"
+        X: =525
+        Y: =465
+        ZIndex: =17
 
