@@ -23,28 +23,20 @@
         "X",
         "Y",
         "ZIndex",
+        "BtnFillColor",
         {
           "AFDDataSourceName": "",
           "AutoRuleBindingEnabled": false,
           "AutoRuleBindingString": "",
-          "InvariantPropertyName": "ButtonText",
+          "InvariantPropertyName": "BtnText",
           "IsLockable": false,
           "NameMapSourceSchema": "?"
         },
-        "ButtonFillColor",
         {
           "AFDDataSourceName": "",
           "AutoRuleBindingEnabled": false,
           "AutoRuleBindingString": "RGBA(0, 0, 0, 1)",
-          "InvariantPropertyName": "ButtonTextColor",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "App.ActiveScreen",
-          "InvariantPropertyName": "OnSelectNavigate",
+          "InvariantPropertyName": "BtnTextColor",
           "IsLockable": false,
           "NameMapSourceSchema": "?"
         }
@@ -65,28 +57,23 @@
       "MetaDataIDKey": "",
       "Name": "Button_1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 7,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
           "Category": "Data",
-          "PropertyName": "ButtonText",
-          "RuleProviderType": "Unknown"
-        },
-        {
-          "Category": "Data",
-          "PropertyName": "ButtonFillColor",
+          "PropertyName": "BtnFillColor",
           "RuleProviderType": "System"
         },
         {
           "Category": "Data",
-          "PropertyName": "ButtonTextColor",
-          "RuleProviderType": "System"
+          "PropertyName": "BtnText",
+          "RuleProviderType": "Unknown"
         },
         {
           "Category": "Data",
-          "PropertyName": "OnSelectNavigate",
-          "RuleProviderType": "Unknown"
+          "PropertyName": "BtnTextColor",
+          "RuleProviderType": "System"
         },
         {
           "Category": "Design",
@@ -96,12 +83,12 @@
         {
           "Category": "Design",
           "PropertyName": "Height",
-          "RuleProviderType": "Unknown"
+          "RuleProviderType": "System"
         },
         {
           "Category": "Design",
           "PropertyName": "Width",
-          "RuleProviderType": "Unknown"
+          "RuleProviderType": "System"
         },
         {
           "Category": "Design",
@@ -319,7 +306,7 @@
       "MetaDataIDKey": "",
       "Name": "LabelTextField_1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 1,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -402,7 +389,7 @@
       "MetaDataIDKey": "",
       "Name": "LabelTextField_2",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 2,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -485,7 +472,7 @@
       "MetaDataIDKey": "",
       "Name": "LabelTextField_3",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 3,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -568,7 +555,7 @@
       "MetaDataIDKey": "",
       "Name": "LabelTextField_4",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 4,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -651,7 +638,7 @@
       "MetaDataIDKey": "",
       "Name": "LabelTextField_5",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 5,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -734,7 +721,7 @@
       "MetaDataIDKey": "",
       "Name": "LabelTextField_6",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 6,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

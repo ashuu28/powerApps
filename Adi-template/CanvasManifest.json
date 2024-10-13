@@ -118,13 +118,13 @@
     "Id": "c8ab4001-1ef2-483a-b583-7b8d3af4bf58",
     "InstrumentationKey": "",
     "ManualOfflineProfileId": "",
-    "Name": "Adi-Template-new",
+    "Name": "Adi-component-Hub-App",
     "OriginatingVersion": "1.343",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
   },
   "PublishInfo": {
-    "AppName": "Adi-Template-new",
+    "AppName": "Adi-component-Hub-App",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",

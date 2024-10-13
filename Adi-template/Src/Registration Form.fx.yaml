@@ -46,9 +46,8 @@
         ZIndex: =8
 
     Button_1 As Button:
-        ButtonText: ="Submit"
-        OnSelectNavigate: ='Home Page'
+        BtnText: ="Submit"
         X: =543
-        Y: =402
+        Y: =423
         ZIndex: =9
 
