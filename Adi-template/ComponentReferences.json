@@ -31,16 +31,6 @@
   },
   {
     "HasLibraryLogicalName": true,
-    "InstanceCount": 0,
-    "LibraryId": "001fc030-04ef-4ac1-ae18-235c0909e6b9",
-    "LibraryLogicalName": "crc3e_atoms_25486",
-    "LibraryVersion": "2024-10-03T17:13:01Z",
-    "OriginalComponentDefinitionTemplateId": "6d901adee8244faa94dd2cd1c2cac217",
-    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
-    "SourceLastTimeSaved": "2024-10-03T17:13:05.39+00:00"
-  },
-  {
-    "HasLibraryLogicalName": true,
     "InstanceCount": 1,
     "LibraryId": "927a5d7c-67ed-4b13-8465-b15a0b61c9ea",
     "LibraryLogicalName": "crc3e_layouts_163db",

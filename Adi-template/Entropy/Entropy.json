@@ -1,23 +1,22 @@
 {
   "ComponentIndexes": {
-    "Button": 8,
+    "Button": 7,
     "Button_1": 8,
-    "Component1": 4,
+    "Component1": 3,
     "Component1_2": 10,
-    "Footer": 7,
+    "Footer": 6,
     "Footer_1": 3,
-    "Label Text Input": 9,
+    "Label Text Input": 8,
     "Label Text Input_2": 12,
     "Label Text Input_3": 12,
     "Label Text Input_4": 12,
     "Label Text Input_5": 12,
     "Label Text Input_6": 12,
     "Label Text Input_7": 12,
-    "Navbar": 6,
+    "Navbar": 5,
     "Navbar_1": 4,
-    "sidebar": 5,
-    "sidebar_1": 2,
-    "Text_Field": 3
+    "sidebar": 4,
+    "sidebar_1": 2
   },
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
@@ -105,14 +104,12 @@
     "sidebar_1": 82,
     "Subtitle7": 90,
     "Success Page Registration form": 81,
-    "Text_Field": 58,
-    "TextInput1": 59,
     "TextInput1_2": 6,
     "Title7": 89
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/13/2024 05:36:18",
+  "HeaderLastSavedDateTimeUTC": "10/13/2024 05:41:40",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -120,19 +117,17 @@
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {
     "009df2e8d6c047b9acc07ada427184d4": 4,
-    "97c9e1f3aa104ae09830dbdcac79cc0d": 5,
     "9ba19bec74c74c808798f0469cb9a71c": 3,
     "b7dca8d211774b56a32d8be61332c351": 2,
-    "d2393302a67e49a1aa00bced5a92a28b": 6,
+    "d2393302a67e49a1aa00bced5a92a28b": 5,
     "dde33db23a4c4116a6dbe766cf235c73": 1,
     "f877107515bf421cbc6c7811f3b7113c": 0
   },
   "OrderComponentTemplate": {
     "009df2e8d6c047b9acc07ada427184d4": 4,
-    "97c9e1f3aa104ae09830dbdcac79cc0d": 5,
     "9ba19bec74c74c808798f0469cb9a71c": 3,
     "b7dca8d211774b56a32d8be61332c351": 2,
-    "d2393302a67e49a1aa00bced5a92a28b": 6,
+    "d2393302a67e49a1aa00bced5a92a28b": 5,
     "dde33db23a4c4116a6dbe766cf235c73": 1,
     "f877107515bf421cbc6c7811f3b7113c": 0
   },
@@ -274,8 +269,6 @@
     "sidebar_1": {},
     "Subtitle7": {},
     "Success Page Registration form": {},
-    "Text_Field": {},
-    "TextInput1": {},
     "TextInput1_2": {},
     "Title7": {}
   },
@@ -366,8 +359,6 @@
     "sidebar_1": 9,
     "Subtitle7": 22,
     "Success Page Registration form": 0,
-    "Text_Field": 0,
-    "TextInput1": 32,
     "TextInput1_2": 68,
     "Title7": 21
   },
@@ -380,9 +371,9 @@
     "AnalysisLoadTime": 0.5266226,
     "ControlCount": {
       "009df2e8d6c047b9acc07ada427184d4": 2,
-      "97c9e1f3aa104ae09830dbdcac79cc0d": 1,
+      "97c9e1f3aa104ae09830dbdcac79cc0d": 2,
       "9ba19bec74c74c808798f0469cb9a71c": 3,
-      "b7dca8d211774b56a32d8be61332c351": 2,
+      "b7dca8d211774b56a32d8be61332c351": 3,
       "button": 1,
       "d2393302a67e49a1aa00bced5a92a28b": 2,
       "dde33db23a4c4116a6dbe766cf235c73": 2,
