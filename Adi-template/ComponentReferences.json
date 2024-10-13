@@ -1,7 +1,7 @@
 [
   {
     "HasLibraryLogicalName": true,
-    "InstanceCount": 2,
+    "InstanceCount": 1,
     "LibraryId": "f68b4c34-b5f5-4f5f-a3a5-b40b0aef1a2f",
     "LibraryLogicalName": "crc3e_organisms_52255",
     "LibraryVersion": "2024-10-07T12:50:01Z",
@@ -11,7 +11,7 @@
   },
   {
     "HasLibraryLogicalName": true,
-    "InstanceCount": 2,
+    "InstanceCount": 1,
     "LibraryId": "f68b4c34-b5f5-4f5f-a3a5-b40b0aef1a2f",
     "LibraryLogicalName": "crc3e_organisms_52255",
     "LibraryVersion": "2024-10-07T12:50:01Z",
@@ -21,7 +21,7 @@
   },
   {
     "HasLibraryLogicalName": true,
-    "InstanceCount": 2,
+    "InstanceCount": 1,
     "LibraryId": "f68b4c34-b5f5-4f5f-a3a5-b40b0aef1a2f",
     "LibraryLogicalName": "crc3e_organisms_52255",
     "LibraryVersion": "2024-10-07T12:50:01Z",
@@ -41,17 +41,7 @@
   },
   {
     "HasLibraryLogicalName": true,
-    "InstanceCount": 6,
-    "LibraryId": "3a2b017b-a5ad-4ab8-a81c-01f5e80dc5c3",
-    "LibraryLogicalName": "crc3e_molecules_616e1",
-    "LibraryVersion": "2024-09-29T12:46:05Z",
-    "OriginalComponentDefinitionTemplateId": "54c507126462481cbb9ec71df42f37b1",
-    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
-    "SourceLastTimeSaved": "2024-09-29T12:46:08.295+00:00"
-  },
-  {
-    "HasLibraryLogicalName": true,
-    "InstanceCount": 3,
+    "InstanceCount": 1,
     "LibraryId": "927a5d7c-67ed-4b13-8465-b15a0b61c9ea",
     "LibraryLogicalName": "crc3e_layouts_163db",
     "LibraryVersion": "2024-10-07T04:14:29Z",
@@ -66,6 +56,16 @@
     "LibraryLogicalName": "crc3e_layouts_163db",
     "LibraryVersion": "2024-10-12T12:32:33Z",
     "OriginalComponentDefinitionTemplateId": "dc4622eaca8541038bf7fd8e3239f8b4",
+    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
+    "SourceLastTimeSaved": "2024-10-13T05:04:58.298+00:00"
+  },
+  {
+    "HasLibraryLogicalName": true,
+    "InstanceCount": 7,
+    "LibraryId": "927a5d7c-67ed-4b13-8465-b15a0b61c9ea",
+    "LibraryLogicalName": "crc3e_layouts_163db",
+    "LibraryVersion": "2024-10-12T12:32:33Z",
+    "OriginalComponentDefinitionTemplateId": "96c3948a30824f04970770384d7a862a",
     "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
     "SourceLastTimeSaved": "2024-10-13T05:04:58.298+00:00"
   }

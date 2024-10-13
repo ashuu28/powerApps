@@ -1,0 +1,31 @@
+"'Label Text Input' As CanvasComponent":
+    Fill: =RGBA(0, 0, 0, 0)
+    Height: =38
+    InputLabel: ="Text"
+    Width: =290
+    X: =0
+    Y: =0
+    ZIndex: =1
+
+    Group5 As group:
+        Height: =5
+        Width: =5
+        X: =60
+        Y: =60
+        ZIndex: =3
+
+        Label3_4 As label:
+            Height: =37
+            Size: =12
+            Text: =Parent.InputLabel
+            Width: =290
+            ZIndex: =1
+
+        TextInput1_2 As text:
+            Default: ="Text input"
+            Height: =38
+            Size: =12
+            Width: =290
+            Y: =38
+            ZIndex: =2
+

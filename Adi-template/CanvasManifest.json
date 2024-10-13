@@ -136,10 +136,7 @@
   },
   "ScreenOrder": [
     "Registration Form",
-    "Home Page",
-    "Screen1",
-    "Screen3",
-    "Screen2",
-    "Screen4"
+    "Success Page Registration form",
+    "Screen3"
   ]
 }
